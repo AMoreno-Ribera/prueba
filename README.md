@@ -1,2 +1,2 @@
 # prueba
-Prueba para subir un repositorio
+Prueba para subir un repositorio a Github
